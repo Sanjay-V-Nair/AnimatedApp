@@ -16,6 +16,6 @@ So, what is really surprising about this is that we're using animated assets, wh
 
 ### Animated App with Rive and Flutter
 
-![Preview](/gif.gif)
+<!-- ![Preview](/gif.gif) -->
 
 ![App UI](/ui.png)
